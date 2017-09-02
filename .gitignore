@@ -1,13 +1,138 @@
-*.tar
-*.tar.*
-*.jar
-*.exe
-*.msi
-*.zip
-*.tgz
+# Keil
+*.pdsbak
+*.lst
+*.obj
+*.htm
+*.hex
+*.lnp
+*.M51
+*.workspace
+*.Lenovo
+*.uvopt
+*.pdf
+*.A51
+*.scvd
+*.d
+*.o
+*.s
+*.axf
+*.crf
+*.map
+*.sct
+*.dep
+*.ink
+*.asm
+*.cp
+*.dbg
+*.mcl
+*.ppc
+*.txt
+*.ini
+*.cfg
+*.dct
+*.dlt
 *.log
-*.log.*
-*.sig
-
-pkg/
-src/
+*.mcppi
+*.dic
+*.bmk
+*.brk
+*.pdsprj
+*.Bak
+*.plg
+*.jpg
+*.BMP
+*.Opt
+*.Uv2
+*.rar
+*.PWI
+*.DSN
+*.DBK
+*.lnk
+*.png
+1.LED/IO
+10.UART/advanced with lcd/uart
+10.UART/functions organized/uart
+10.UART/simple/RX/RX
+10.UART/simple/TX/TX
+11.Timer/counter/counter
+11.Timer/timer
+12.Interrupt/functions organised/interrupt
+12.Interrupt/INTR pin simple/interrupt
+13.I2C/i2c
+2.Delay/Hard delay/delay
+2.Delay/Soft delay/delay
+3.Relay/Relay
+4.Motor/DC Motor/DC motor
+4.Motor/Servo motor/servo
+4.Motor/Stepper motor/Bipolar/bipolar
+4.Motor/Stepper motor/Unipolar/Full drive/full drive
+4.Motor/Stepper motor/Unipolar/Half drive/half drive
+4.Motor/Stepper motor/Unipolar/Wave drive/wave drive
+5.PWM/PWM
+*.zip
+6.Display devices/16x2 LCD/4-Bit mode/4bitLCD
+6.Display devices/16x2 LCD/8-Bit mode/8bitLCD
+6.Display devices/16x2 LCD/simple/lcd
+6.Display devices/16x4 LCD/4-Bit mode/4bitLCD
+6.Display devices/7 Segment Display/counting application/7 segment multiplexed
+6.Display devices/7 Segment Display/functions organised/7 segment
+6.Display devices/7 Segment Display/Multiplexed 7 Segment/7 segment multiplexed
+6.Display devices/GLCD 128x64/functions organized/GLCD
+6.Display devices/GLCD 128x64/functions organized/GLCD 128x64 picture/glcd
+6.Display devices/GLCD 128x64/simple/GLCD
+6.Display devices/OLED/OLED
+7.Keypad/functions organized/keypad
+7.Keypad/keypad
+8.ADC/ADC
+8.ADC/functions organised/alternate complicated/ADC
+Resources and libraries/NEC/1.Practice code/test1
+Resources and libraries/NEC/1.Practice code/test2
+Resources and libraries/NEC/10.Interrupt/interrupt
+Resources and libraries/NEC/2.LED/lcd
+Resources and libraries/NEC/3.LCD/3.1 LCD2/lcd2
+Resources and libraries/NEC/3.LCD/3.2 LCD3/lcd3
+Resources and libraries/NEC/3.LCD/lcd
+Resources and libraries/NEC/4.DC motor/motor
+Resources and libraries/NEC/5.UART/RX/RX
+Resources and libraries/NEC/5.UART/TX/TX
+Resources and libraries/NEC/6.Seven Segment/7seg
+Resources and libraries/NEC/6.Seven Segment/7segment
+Resources and libraries/NEC/7.ADC/adc
+Resources and libraries/NEC/8.Keypad/keypad
+Resources and libraries/NEC/9.Relay/relay
+Resources and libraries/pending/8051 i2c Code/8051 i2c Code/Code/I2C
+Resources and libraries/pending/8051 with DS1307 RTC Code/Code/RTC
+8.ADC/functions organised/ADC
+Resources and libraries/pending/8051 with DS1307 RTC Code/Code/Main.c
+Resources and libraries/pending/8051 with DS1307 RTC Code/Code/LCD.h
+Resources and libraries/pending/8051 with DS1307 RTC Code/Code/LCD.c
+Resources and libraries/pending/8051 with DS1307 RTC Code/Code/Includes.h
+Resources and libraries/pending/8051 with DS1307 RTC Code/Code/I2C.h
+Resources and libraries/pending/8051 with DS1307 RTC Code/Code/I2C.c
+Resources and libraries/pending/8051 with DS1307 RTC Code/Code/DS1307.c
+Resources and libraries/pending/8051 i2c Code/8051 i2c Code/Code/Includes.h
+Resources and libraries/pending/8051 with DS1307 RTC Code/Code/DS1307.h
+Resources and libraries/pending/8051 i2c Code/8051 i2c Code/Code/I2C.h
+Resources and libraries/pending/8051 i2c Code/8051 i2c Code/Code/I2C.c
+Resources and libraries/pending/8051 i2c Code/8051 i2c Code/Code/Main.c
+Resources and libraries/NEC/9.Relay/relay.c
+Resources and libraries/NEC/8.Keypad/keypad.c
+Resources and libraries/NEC/7.ADC/adc.c
+Resources and libraries/NEC/6.Seven Segment/7seg.c
+Resources and libraries/NEC/5.UART/TX/TX.c
+Resources and libraries/NEC/4.DC motor/motor.c
+Resources and libraries/NEC/3.LCD/lcd.c
+Resources and libraries/NEC/5.UART/RX/RX.c
+Resources and libraries/NEC/3.LCD/3.2 LCD3/lcd3.c
+Resources and libraries/NEC/3.LCD/3.1 LCD2/lcd2.c
+Resources and libraries/NEC/2.LED/led.c
+Resources and libraries/NEC/10.Interrupt/interrupt.c
+Resources and libraries/NEC/1.Practice code/test2.c
+Resources and libraries/NEC/1.Practice code/test1.c
+Resources and libraries/NEC/7.ADC/test.c
+Resources and libraries/pending/8051 i2c Code/8051 i2c Code/Code/I2C.uvproj
+Resources and libraries/pending/8051 with DS1307 RTC Code/Code/RTC.uvproj
+Resources and libraries/NEC/7.ADC/adc.uvproj
+Resources and libraries/NEC/5.UART/TX/TX.uvproj
+Resources and libraries/NEC/3.LCD/3.2 LCD3/lcd3.uvproj
+Resources and libraries/My library LPC2138/custom/connections.h
